@@ -1,7 +1,7 @@
 # Hi, I am Isifu Mwase
 
 
-<h2>Professional Profile:</h2>
+<h2>Professional Profile:
 
 <h1>Projects:</h1>
 <h2>Networking:</h2>
@@ -10,7 +10,7 @@
 <h2>Programming:</h2>
 
 
-
+</h2>
 
 
 
