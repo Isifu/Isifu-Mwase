@@ -32,7 +32,8 @@
 [instagram]: https://www.instagram.com/isifumwase
 [linkedin]: https://linkedin.com/in/isifu-mwase-740a60b0/
 
- <b>  </b>
+ <b>  
 
 
 Please follow me on: <h1> <a href="https://github.com/Isifu">GitHub</a> </h1>
+</b>
