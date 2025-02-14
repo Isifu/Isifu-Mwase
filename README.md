@@ -23,7 +23,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/@IsifuM
-[youtube]: https://www.youtube.com/c/@isifumwase7420
+[youtube]: https://www.youtube.com/@isifumwase7420
 [instagram]: https://www.instagram.com/isifumwase
 [linkedin]: https://linkedin.com/in/isifu-mwase-740a60b0/
 
