@@ -10,8 +10,8 @@
 <h2>Programming:</h2>
 
 <h2>Class Projects:
-</br><a href="https://chimpreports.com/mbarara-university-students-showcase-ict-innovations-amid-calls-for-funding/">Undergraduate Final Year Project </a>
-</h2>
+<h4></br><a href="https://chimpreports.com/mbarara-university-students-showcase-ict-innovations-amid-calls-for-funding/">Undergraduate Final Year Project </a>
+</h4>
 
 
 </h2>
