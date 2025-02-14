@@ -3,6 +3,11 @@
 
 <h2>Professional Profile:</h2>
 
+<h1>Projects:</h1>
+<h2>Networking:</h2>
+<h2>Cyber Security:</h2>
+<h2>Cloud:</h2>
+<h2>Programming:</h2>
 
 
 
