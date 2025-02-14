@@ -35,5 +35,5 @@
  <b>  </b>
 
 
-Please follow me on: <a href="https://github.com/Isifu">GitHub</a> 
+ <a href="https://github.com/Isifu">GitHub</a> 
 
