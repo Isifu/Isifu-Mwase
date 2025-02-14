@@ -9,6 +9,10 @@
 <h2>Cloud:</h2>
 <h2>Programming:</h2>
 
+<h2>Class Projects:
+<a href="https://chimpreports.com/mbarara-university-students-showcase-ict-innovations-amid-calls-for-funding/">Undergraduate Final Year Project </a>
+</h2>
+
 
 </h2>
 
